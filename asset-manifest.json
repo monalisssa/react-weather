@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/react-weather/static/css/main.b2cff7c0.css",
+    "main.css": "/react-weather/static/css/main.e48814f6.css",
     "main.js": "/react-weather/static/js/main.8935b8b0.js",
-    "static/media/background.png": "/react-weather/static/media/background.fb5fe96ea81c220fef2e.png",
     "static/media/McLaren-Regular.eot": "/react-weather/static/media/McLaren-Regular.4a0e41934b552fba8020.eot",
     "static/media/McLaren-Regular.woff": "/react-weather/static/media/McLaren-Regular.b148c4d262d415e86943.woff",
     "static/media/McLaren-Regular.woff2": "/react-weather/static/media/McLaren-Regular.25e5ddfac9696bfb1a6a.woff2",
@@ -10,11 +9,11 @@
     "index.html": "/react-weather/index.html",
     "static/media/connecting_figure.svg": "/react-weather/static/media/connecting_figure.361fa91af074a41a307c8e1132ba4923.svg",
     "static/media/line.svg": "/react-weather/static/media/line.157aca4171295eea762b25c510d10c13.svg",
-    "main.b2cff7c0.css.map": "/react-weather/static/css/main.b2cff7c0.css.map",
+    "main.e48814f6.css.map": "/react-weather/static/css/main.e48814f6.css.map",
     "main.8935b8b0.js.map": "/react-weather/static/js/main.8935b8b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2cff7c0.css",
+    "static/css/main.e48814f6.css",
     "static/js/main.8935b8b0.js"
   ]
 }
