@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-weather/static/css/main.6f708b4c.css",
-    "main.js": "/react-weather/static/js/main.1379eb15.js",
-    "static/media/background.png": "/react-weather/static/media/background.fb5fe96ea81c220fef2e.png",
-    "static/media/McLaren-Regular.eot": "/react-weather/static/media/McLaren-Regular.4a0e41934b552fba8020.eot",
-    "static/media/McLaren-Regular.woff": "/react-weather/static/media/McLaren-Regular.b148c4d262d415e86943.woff",
-    "static/media/McLaren-Regular.woff2": "/react-weather/static/media/McLaren-Regular.25e5ddfac9696bfb1a6a.woff2",
-    "static/media/logo.png": "/react-weather/static/media/logo.913e2b6b689289623552.png",
-    "index.html": "/react-weather/index.html",
-    "static/media/connecting_figure.svg": "/react-weather/static/media/connecting_figure.361fa91af074a41a307c8e1132ba4923.svg",
-    "static/media/line.svg": "/react-weather/static/media/line.157aca4171295eea762b25c510d10c13.svg",
-    "main.6f708b4c.css.map": "/react-weather/static/css/main.6f708b4c.css.map",
-    "main.1379eb15.js.map": "/react-weather/static/js/main.1379eb15.js.map"
+    "main.css": "./static/css/main.4d52b895.css",
+    "main.js": "./static/js/main.050bba74.js",
+    "static/media/background.png": "./static/media/background.fb5fe96ea81c220fef2e.png",
+    "static/media/McLaren-Regular.eot": "./static/media/McLaren-Regular.4a0e41934b552fba8020.eot",
+    "static/media/McLaren-Regular.woff": "./static/media/McLaren-Regular.b148c4d262d415e86943.woff",
+    "static/media/McLaren-Regular.woff2": "./static/media/McLaren-Regular.25e5ddfac9696bfb1a6a.woff2",
+    "static/media/logo.png": "./static/media/logo.913e2b6b689289623552.png",
+    "index.html": "./index.html",
+    "static/media/connecting_figure.svg": "./static/media/connecting_figure.361fa91af074a41a307c8e1132ba4923.svg",
+    "static/media/line.svg": "./static/media/line.157aca4171295eea762b25c510d10c13.svg",
+    "main.4d52b895.css.map": "./static/css/main.4d52b895.css.map",
+    "main.050bba74.js.map": "./static/js/main.050bba74.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f708b4c.css",
-    "static/js/main.1379eb15.js"
+    "static/css/main.4d52b895.css",
+    "static/js/main.050bba74.js"
   ]
 }
