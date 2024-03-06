@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    list-style: none;
+}
+
+button{
+    background:none;
+    cursor: pointer;
+}
+
+body{
+    background-color: #000;
+    color: #fff;
+    font-family: McLaren, sans-serif;
+}
+
+.logo{
+    position: absolute;
+}
+
+.main_app{
+    position: absolute;
+    background: url(../../img/background_dark.jpg) no-repeat;
+    background-size: cover;
+    min-width: 68%;
+    min-height: 95%;
+    margin: 20px 240px;
+}
+
+.light--app{
+    background: url(../../img/background_light.jpg) no-repeat;
+    background-size: cover;
+}
+.search_bar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+main{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top: 30px;
+   
+}
+
+.buttons{
+    display: flex;
+    margin: 70px 0 20px 100px;
+}
+
+.buttons button:not(:last-child)
+{
+    margin-right: 30px;
+}
+
+.color_button{
+    position: absolute;
+    top: 20px;
+    right: 50px;
+    cursor: pointer;
+    transition: all 0.5s;
+    z-index: 1;
+}
+
+.color_button img{
+    width: 2rem;
+}
+.color_button:hover{
+    transform: scale(1.2);
+}
+
+.loading{
+    margin: auto;
+}

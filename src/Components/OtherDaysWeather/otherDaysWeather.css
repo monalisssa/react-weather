@@ -1,0 +1,60 @@
+
+.weather_days-list{
+    max-width: 85%;
+    margin: 20px auto 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 5px;
+}
+
+.days_list-item{
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 15px 0;
+    width: 20%;
+
+    background-color: rgb(	29, 40, 42, 0.9);
+    text-align: center;
+    cursor: pointer;
+
+    transition: transform 1.2s;
+    border-radius: 10px;
+    border-left: 1px solid #ccc;
+}
+
+
+.days_list-item:hover{
+    border: 2px solid #2395FF;
+    transform: translateY(-10px);
+}
+
+.list_item-date{
+    font-size: 13px;
+}
+
+.list_item-weather{
+    font-size: 17px;
+    line-height: 1.2;
+    
+}
+
+
+.light--app .days_list-item  {
+    border: 2px solid #000;
+    background-color: rgb(255,255,255,0.8);
+    color: #000;
+}
+
+.light--app .days_list-item:hover  {
+    border: 2px solid #2395FF;
+}
+
+.light--app .days_list-item .theme-light-image{
+    width: 55%;
+    margin: 5px;
+}
+
+
