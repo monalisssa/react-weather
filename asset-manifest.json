@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.4d52b895.css",
-    "main.js": "./static/js/main.050bba74.js",
-    "static/media/background.png": "./static/media/background.fb5fe96ea81c220fef2e.png",
-    "static/media/McLaren-Regular.eot": "./static/media/McLaren-Regular.4a0e41934b552fba8020.eot",
-    "static/media/McLaren-Regular.woff": "./static/media/McLaren-Regular.b148c4d262d415e86943.woff",
-    "static/media/McLaren-Regular.woff2": "./static/media/McLaren-Regular.25e5ddfac9696bfb1a6a.woff2",
-    "static/media/logo.png": "./static/media/logo.913e2b6b689289623552.png",
-    "index.html": "./index.html",
-    "static/media/connecting_figure.svg": "./static/media/connecting_figure.361fa91af074a41a307c8e1132ba4923.svg",
-    "static/media/line.svg": "./static/media/line.157aca4171295eea762b25c510d10c13.svg",
-    "main.4d52b895.css.map": "./static/css/main.4d52b895.css.map",
-    "main.050bba74.js.map": "./static/js/main.050bba74.js.map"
+    "main.css": "/react-weather/static/css/main.440e39d9.css",
+    "main.js": "/react-weather/static/js/main.5fe0b7fb.js",
+    "static/media/background_light.jpg": "/react-weather/static/media/background_light.22b8a876006051751aae.jpg",
+    "static/media/background_dark.jpg": "/react-weather/static/media/background_dark.d843e2003d05102efe57.jpg",
+    "static/media/McLaren-Regular.eot": "/react-weather/static/media/McLaren-Regular.4a0e41934b552fba8020.eot",
+    "static/media/sun.png": "/react-weather/static/media/sun.88bbf60d0b10eb5f6ca1.png",
+    "static/media/McLaren-Regular.woff": "/react-weather/static/media/McLaren-Regular.b148c4d262d415e86943.woff",
+    "static/media/McLaren-Regular.woff2": "/react-weather/static/media/McLaren-Regular.25e5ddfac9696bfb1a6a.woff2",
+    "static/media/moon.png": "/react-weather/static/media/moon.abd36e2c0f014bf4f089.png",
+    "static/media/logo.png": "/react-weather/static/media/logo.913e2b6b689289623552.png",
+    "index.html": "/react-weather/index.html",
+    "static/media/connecting_figure_light.svg": "/react-weather/static/media/connecting_figure_light.83d461398f27e30c214a0f97115cce3e.svg",
+    "static/media/connecting_figure.svg": "/react-weather/static/media/connecting_figure.361fa91af074a41a307c8e1132ba4923.svg",
+    "static/media/line.svg": "/react-weather/static/media/line.157aca4171295eea762b25c510d10c13.svg",
+    "static/media/line_light.svg": "/react-weather/static/media/line_light.24321d6baf7e9e6dd53a3cbe3075dfad.svg",
+    "main.440e39d9.css.map": "/react-weather/static/css/main.440e39d9.css.map",
+    "main.5fe0b7fb.js.map": "/react-weather/static/js/main.5fe0b7fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d52b895.css",
-    "static/js/main.050bba74.js"
+    "static/css/main.440e39d9.css",
+    "static/js/main.5fe0b7fb.js"
   ]
 }
