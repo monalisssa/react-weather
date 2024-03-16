@@ -11,7 +11,7 @@
         margin: 0;
         background-image: none;
     }
-    .main_info, .extra_info{
+     .main_weather_info, .extra_weather_info{
         border-radius: 20%;
     }
 
