@@ -11,6 +11,9 @@
         margin: 0;
         background-image: none;
     }
+    .main_info, .extra_info{
+        border-radius: 20%;
+    }
 
     .css-lea7ey-control, .css-b62m3t-container{
         width: 70%;
