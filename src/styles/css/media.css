@@ -1,7 +1,11 @@
 @media screen and (max-width: 1000px)  {
 
-    body{
+     body{
         background-image: url("../../img/background_dark.jpg");
+    }
+
+    body .light--app {
+        background-image: url("../../img/background_light.jpg");
     }
     .logo{
         width: 20%;
@@ -11,8 +15,11 @@
         margin: 0;
         background-image: none;
     }
-     .main_weather_info, .extra_weather_info{
-        border-radius: 20%;
+    .main_weather_info{
+        padding: 10px;
+    }
+    .main_weather_info, .extra_weather_info{
+        border-radius: 10%;
     }
 
     .css-lea7ey-control, .css-b62m3t-container{
@@ -36,7 +43,7 @@
     }
 
     .buttons button{
-        width: 60%;
+        width: 70%;
     }
     .days_list-box .days_list-item{
         width: 100%;
@@ -57,7 +64,7 @@
     }
 
     .light--app .days_list-item .theme-light-image{
-        max-width: 17%;
+        max-width: 10%;
     }
 
     .light--app .days_list-item .theme-light-image img{
@@ -67,6 +74,7 @@
     .main_weather_info{
         width: 80%;
     }
+    
 }
 
 @media (orientation: landscape ) and (max-device-width: 1400px){
